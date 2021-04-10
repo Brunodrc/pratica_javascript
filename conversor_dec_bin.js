@@ -1,6 +1,6 @@
 let entrada = 27
 let total = []
-while (entrada >= 2) {
+while (entrada >= 1) {
     resto = entrada % 2
     div_interia = Number.parseInt(entrada / 2)
     total.push(resto)
